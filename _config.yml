@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: Kerry Knopp
+title: How We SRE
 plugins:
 - jekyll-remote-theme
 show_downloads: false
