@@ -1,6 +1,3 @@
-layout: page
-title: "How We SRE"
-permalink: /how-we-sre
 <html><div style="text-align: right">Kerry Knopp<br>
 October 9, 2023</div></html>
 
