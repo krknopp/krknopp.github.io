@@ -1,6 +1,4 @@
-# How we SRE
-
-Below are some elementary principals of how Site Reliability Engeineers (SRE) should try and act.  Not every detail can or should be dictated or described for what we do. These ideas should help guide decisions, so they can be made on the fly, even with top decision makers are out.
+Below are some elementary principals of how Site Reliability Engeineers (SRE) should try to act.  Not every detail can or should be dictated or described for what we do. These ideas should help guide decisions, so they can be made on the fly, even with top decision makers are out.
 
 ## In Brief
 * **Repeatability** - Everything is a template.  
