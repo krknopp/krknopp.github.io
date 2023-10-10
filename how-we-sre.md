@@ -39,7 +39,7 @@ Examples
 
 
 ### Responsive
-One of the most common complaint that a supporting organization can get is that it takes too long to get a response or a lack of communication.  Users usually ask for things because they need them.  Sometimes they ask for those things 5 minutes after they need them and sometimes they give time to get it done.  Sometimes something is broken.
+One of the most common complaints that a supporting organization can get is that it takes too long to get a response or a lack of communication.  Users usually ask for things because they need them.  Sometimes they ask for those things 5 minutes after they need them and sometimes they give time to get it done.  Sometimes something is broken.
 
 We want to at least acknowledge a request as soon as we can.  Then keep in communication with the requestor at an appropriate level. If a timeline is provided by us or them and that timeline isn't able to be met, letting them know new expectations is important.
 
